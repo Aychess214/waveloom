@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/audio-nft.clar"
 depends_on = []
 
+[contracts.collaboration]
+path = "contracts/collaboration.clar"
+depends_on = []
+
 [contracts.marketplace]
 path = "contracts/marketplace.clar"
 depends_on = []
